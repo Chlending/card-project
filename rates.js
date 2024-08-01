@@ -8,7 +8,7 @@ const FHA_RATE="8.875%"
 const FHA_APR="6.736%"
 
 const VA_RATE="5.875%"
-const VA_APR="6.073%"
+const VA_APR="5.875%"
 
 
 
