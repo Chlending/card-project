@@ -1,14 +1,15 @@
 document.addEventListener("DOMContentLoaded", function() {
 
 
-const CONVENTIONAL_RATE='6.375%'
-const CONVENTIONAL_APR="6.375%"
+const CONVENTIONAL_RATE='5.875%'
+const CONVENTIONAL_APR="5.9%"
 
-const FHA_RATE="8.875%"
-const FHA_APR="6.736%"
+const FHA_RATE="5.375%"
+const FHA_APR="6.269%"
 
-const VA_RATE="5.875%"
-const VA_APR="5.875%"
+const VA_RATE="5.375%"
+const VA_APR="5.587%"
+
 
 
 
