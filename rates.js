@@ -1,16 +1,16 @@
 document.addEventListener("DOMContentLoaded", function() {
 
 
-const CONVENTIONAL_RATE='5.875%'
-const CONVENTIONAL_APR="5.9%"
+const CONVENTIONAL_RATE='5.625%'
+const CONVENTIONAL_APR="5.65%"
 
-const FHA_RATE="5.375%"
-const FHA_APR="6.269%"
+const FHA_RATE="5.255%"
+const FHA_APR="6.147%"
 
-const VA_RATE="5.375%"
-const VA_APR="5.587%"
+const VA_RATE="5.25%"
+const VA_APR="5.46%"
 
-const DISCLAIMER = "*As of 09/03/2024. Rates based on the average purchase price of $525,000 and 720 credit score. 30yr fixed rates at 80% LTV for Conventional Loan - affordable loan program, 96.5% LTV for FHA Loan, and 100% LTV for VA loan."
+const DISCLAIMER = "*As of 08/21/2024. Rates based on the average purchase price of $525,000 and 720 credit score. 30yr fixed rates at 80% LTV for Conventional Loan - affordable loan program, 96.5% LTV for FHA Loan, and 100% LTV for VA loan."
 
 
 document.getElementById("rate_conventional").textContent = CONVENTIONAL_RATE; 
