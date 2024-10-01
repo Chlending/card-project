@@ -10,7 +10,7 @@ const FHA_APR="6.15%"
 const VA_RATE="5.25%"
 const VA_APR="5.46%"
 
-const DISCLAIMER = "*As of 09/19/2024. Rates based on the average purchase price of $525,000 and 720 credit score. 30yr fixed rates at 80% LTV for Conventional Loan - affordable loan program, 96.5% LTV for FHA Loan, and 100% LTV for VA loan."
+const DISCLAIMER = "*As of 10/01/2024. Rates based on the average purchase price of $525,000 and 720 credit score. 30yr fixed rates at 80% LTV for Conventional Loan - affordable loan program, 96.5% LTV for FHA Loan, and 100% LTV for VA loan."
 
 
 document.getElementById("rate_conventional").textContent = CONVENTIONAL_RATE; 
