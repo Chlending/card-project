@@ -5,7 +5,7 @@ const CONVENTIONAL_RATE='6.625%'
 const CONVENTIONAL_APR="6.657%"
 
 const FHA_RATE="6.125%"
-const FHA_APR="7.01"
+const FHA_APR="7.01%"
 
 const VA_RATE="6.125%"
 const VA_APR="6.35%"
