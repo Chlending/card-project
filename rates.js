@@ -1,11 +1,11 @@
 document.addEventListener("DOMContentLoaded", function() {
 
 
-const CONVENTIONAL_RATE='5.99%'
-const CONVENTIONAL_APR="6.03%"
+const CONVENTIONAL_RATE='5.25%'
+const CONVENTIONAL_APR="6.281%"
 
-const FHA_RATE="5.75%"
-const FHA_APR="6.64%"
+const FHA_RATE="5.875%"
+const FHA_APR="6.76%"
 
 const VA_RATE="5.75%"
 const VA_APR="5.97%"
@@ -27,6 +27,7 @@ document.getElementById("disc_paragraph").textContent =  DISCLAIMER;
 
 
 });
+
 
 
 
