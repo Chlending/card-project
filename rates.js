@@ -1,6 +1,9 @@
 document.addEventListener("DOMContentLoaded", function() {
 
-
+// Stamp the last updated date for all pages that include rates.js
+// ISO format: YYYY-MM-DD
+window.CHL_UPDATED = '2025-10-09';
+  
 const CONVENTIONAL_RATE='6.00%'
 const CONVENTIONAL_APR="6.031%"
 
@@ -25,8 +28,11 @@ document.getElementById("term_va").textContent = VA_APR;
 
 document.getElementById("disc_paragraph").textContent =  DISCLAIMER;
 
+ 
+
 
 });
+
 
 
 
