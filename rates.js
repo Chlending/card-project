@@ -2,16 +2,16 @@ document.addEventListener("DOMContentLoaded", function() {
 
 // Stamp the last updated date for all pages that include rates.js
 // ISO format: YYYY-MM-DD
-window.CHL_UPDATED = '2025-10-27';
+window.CHL_UPDATED = '2025-10-28';
   
-const CONVENTIONAL_RATE='5.75%'
-const CONVENTIONAL_APR="5.78%"
+const CONVENTIONAL_RATE='5.625%'
+const CONVENTIONAL_APR="5.655%"
 
-const FHA_RATE="5.375%"
-const FHA_APR="6.327"
+const FHA_RATE="5.25%"
+const FHA_APR="6.15"
 
-const VA_RATE="5.25%"
-const VA_APR="5.46%"
+const VA_RATE="5.125%"
+const VA_APR="5.34%"
 
 const DISCLAIMER = "*Rates based on the average purchase price of $575,000 and 740 credit score. 30yr fixed rates at 80% LTV for First-time Buyer Conventional Loan - affordable loan program, 96.5% LTV for FHA Loan, and 100% LTV for VA loan."
 
@@ -32,6 +32,7 @@ document.getElementById("disc_paragraph").textContent =  DISCLAIMER;
 
 
 });
+
 
 
 
