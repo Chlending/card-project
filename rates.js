@@ -2,13 +2,13 @@ document.addEventListener("DOMContentLoaded", function() {
 
 // Stamp the last updated date for all pages that include rates.js
 // ISO format: YYYY-MM-DD
-window.CHL_UPDATED = '2025-11-07';
+window.CHL_UPDATED = '2025-11-10';
   
 const CONVENTIONAL_RATE='5.75%'
 const CONVENTIONAL_APR="5.78%"
 
-const FHA_RATE="5.49%"
-const FHA_APR="6.39"
+const FHA_RATE="5.625%"
+const FHA_APR="6.52"
 
 const VA_RATE="5.375%"
 const VA_APR="5.59%"
@@ -32,6 +32,7 @@ document.getElementById("disc_paragraph").textContent =  DISCLAIMER;
 
 
 });
+
 
 
 
