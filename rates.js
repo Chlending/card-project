@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 // Stamp the last updated date for all pages that include rates.js
 // ISO format: YYYY-MM-DD
-window.CHL_UPDATED = '2025-12-23';
+window.CHL_UPDATED = '2025-12-30';
   
 const CONVENTIONAL_RATE='5.875%'
 const CONVENTIONAL_APR="5.905%"
@@ -32,6 +32,7 @@ document.getElementById("disc_paragraph").textContent =  DISCLAIMER;
 
 
 });
+
 
 
 
