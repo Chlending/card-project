@@ -4,8 +4,8 @@ document.addEventListener("DOMContentLoaded", function() {
 // ISO format: YYYY-MM-DD
 window.CHL_UPDATED = '2026-03-24';
   
-const CONVENTIONAL_RATE='6.49%'
-const CONVENTIONAL_APR="6.53%"
+const CONVENTIONAL_RATE='6.375%'
+const CONVENTIONAL_APR="6.406%"
 
 const FHA_RATE="5.625%"
 const FHA_APR="6.516%"
