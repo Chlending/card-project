@@ -7,8 +7,8 @@ window.CHL_UPDATED = '2026-04-09';
 const CONVENTIONAL_RATE='6.25%'
 const CONVENTIONAL_APR="6.281%"
 
-const FHA_RATE="5.499%"
-const FHA_APR="6.384%"
+const FHA_RATE="5.25%"
+const FHA_APR="6.15%"
 
 const VA_RATE="5.625%"
 const VA_APR="5.844%"
