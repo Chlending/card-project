@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   // Stamp the last updated date for all pages that include rates.js
   // ISO format: YYYY-MM-DD
-  window.CHL_UPDATED = "2026-05-21";
+  window.CHL_UPDATED = "2026-05-22";
 
   const CONVENTIONAL_RATE = "6.625%";
   const CONVENTIONAL_APR = "6.657%";
