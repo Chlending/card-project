@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const VA_APR = "5.97%";
 
   const DISCLAIMER =
-    "*Rates based on the average purchase price of $575,000 and 760 credit score. 30yr fixed rates at 80% LTV for Conventional Loans, 96.5% LTV for FHA Loan, and 100% LTV for VA loan.";
+    "*Rates based on the average purchase price of $585,000 and 760 credit score. 30yr fixed rates at 80% LTV for Conventional Loans, 96.5% LTV for FHA Loan, and 100% LTV for VA loan.";
 
   // Safe text setter so pages without a given element do not throw errors
   function setText(id, value) {
