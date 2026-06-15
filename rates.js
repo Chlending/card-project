@@ -1,16 +1,16 @@
 document.addEventListener("DOMContentLoaded", function () {
   // Stamp the last updated date for all pages that include rates.js
   // ISO format: YYYY-MM-DD
-  window.CHL_UPDATED = "2026-06-12";
+  window.CHL_UPDATED = "2026-06-15";
 
-  const CONVENTIONAL_RATE = "6.375%";
-  const CONVENTIONAL_APR = "6.532%";
+  const CONVENTIONAL_RATE = "6.25%";
+  const CONVENTIONAL_APR = "6.278%";
 
-  const FHA_RATE = "5.625%";
-  const FHA_APR = "6.406%";
+  const FHA_RATE = "5.499%";
+  const FHA_APR = "6.396%";
 
-  const VA_RATE = "5.75%";
-  const VA_APR = "5.97%";
+  const VA_RATE = "5.625%";
+  const VA_APR = "5.841%";
 
   const DISCLAIMER =
     "*Rates based on the average purchase price of $585,000 and 760 credit score. 30yr fixed rates at 80% LTV for Conventional Loans, 96.5% LTV for FHA Loan, and 100% LTV for VA loan.";
